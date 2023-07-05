@@ -6,7 +6,7 @@
     "topics": "example-topic",
     "key.ignore": "true",
     "schema.ignore": "true",
-    "connection.url": "http://localhost:9200",
+    "connection.url": "http://elastic:9200",
     "type.name": "_doc",
     "name": "elasticsearch-sink",
     "key.converter": "org.apache.kafka.connect.json.JsonConverter",
